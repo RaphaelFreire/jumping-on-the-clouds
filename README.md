@@ -26,4 +26,6 @@ array: [0, 0, 0, 0, 1, 0]. 3 pulos
 
 A função jumpingOnClouds deve retornar a quantidade mínima de pulos que ela precisa dar para ganhar o jogo.
 
+fonte: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+
 
