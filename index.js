@@ -13,13 +13,13 @@ const jumpingOnClouds = c => {
   let len = c.length;
   let count = -1;
 
-  for(i = 0; i<len; i++, count++){
+  for(let i = 0; i<len; i++, count++){
 
     if (i+2 < len && c[i+2] == 0){
       i++
     } 
   }
-  console.log(count)
+  return count
 
 }
 
